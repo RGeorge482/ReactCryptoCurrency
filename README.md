@@ -1,4 +1,4 @@
-This is a cryptocurrency price tracker which takes data from a public API. The users can check the current price for each crypto moned the increase and decrease percentage and the market capital value for each of them. In the search input field, the user can type the name of moned and it will display in real-time all the information about that. The app is built in react.
+This is a cryptocurrency price tracker which takes data from a public API. The users can check the current price for each crypto moned the increase and decrease percentage and the market capital value for each of them. In the search input field, the user can type the name of moned and it will display in real-time all the information about that. The app is built in react
 
 ![cr1](https://user-images.githubusercontent.com/69143183/126044110-3ec598f4-7f72-415c-a462-554b6c2adba7.jpg)
 ![cr2](https://user-images.githubusercontent.com/69143183/126044113-c7822a5f-c227-4b80-87ec-a69feed02f3a.jpg)
