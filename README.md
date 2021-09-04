@@ -41,7 +41,7 @@ This is a cryptocurrency price tracker which takes data from a public API. The u
 
 
 ![cr1](https://user-images.githubusercontent.com/69143183/126044110-3ec598f4-7f72-415c-a462-554b6c2adba7.jpg)
-![cr2](https://user-images.githubusercontent.com/69143183/126044113-c7822a5f-c227-4b80-87ec-a69feed02f3a.jpg)
+
 
 
 
